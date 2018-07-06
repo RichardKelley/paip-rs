@@ -1,0 +1,7 @@
+[package]
+name = "paip2"
+version = "0.1.0"
+authors = ["Richard Kelley <richard.kelley@gmail.com>"]
+
+[dependencies]
+rand = "*"
